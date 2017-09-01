@@ -1,1 +1,6 @@
 c:\users\wecancodeit\documents\visual studio 2015\Projects\MethodsPractice\MethodsPractice\bin\Debug\MethodsPractice.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MethodsPractice\MethodsPractice\obj\Debug\MethodsPractice.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MethodsPractice\MethodsPractice\bin\Debug\MethodsPractice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MethodsPractice\MethodsPractice\bin\Debug\MethodsPractice.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MethodsPractice\MethodsPractice\obj\Debug\MethodsPractice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MethodsPractice\MethodsPractice\obj\Debug\MethodsPractice.pdb
